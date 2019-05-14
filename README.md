@@ -2,9 +2,9 @@
 # The Quadratic Sieve Factorizing Algorithm
 
 ## Team
-### Manpreet Singh Juneja 
-### Stuti Sharma
-### Divyanshi Gulati
+#### Manpreet Singh Juneja 
+#### Stuti Sharma
+#### Divyanshi Gulati
 
 
 
